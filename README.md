@@ -1,4 +1,4 @@
-# Online-Contact-System(administrator-and-member)
+# online-member-contact-system(administrator and member)
 线上成员通讯录系统
   
 学习`Java`以来的第二个项目，第一次运用了`Java`的`Socket`编程，`多线程`以及`JDBC`(这也是第一次通过代码操作数据库)。同时项目分为`Server`与`Client`两个部分，并且第一次使用了`Serializable关键字`进行对象的传输，在一定程度上为之后学习理解`RMI`原理以及手写自己的简易`RPC`框架打下了一个小小的基础。  
